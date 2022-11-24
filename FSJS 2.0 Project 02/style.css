@@ -1,0 +1,92 @@
+/* You can not modify anything in the HTML */
+/* You can only modify the CSS file */
+*{
+    font-family: montserrat;
+}
+.navbar{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 30px;
+    padding: 7px;
+    background-color: black;
+    width: 100%;
+}
+
+
+ul{
+    display: flex;
+    justify-content: flex-start;    
+    color: white;
+    list-style-type: none;
+    gap: 40px;
+}
+.logo{
+    height: 35px;
+    margin-left: 50%;
+}
+
+.container{
+    
+    background-image: url("./assets/bg.png");
+    background-size: 100% 100%;
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+}
+
+.hero{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+.hero-heading{
+    
+    font-size: xxx-large;
+    margin-top: 200px;
+    text-align: center;
+}
+.hero-description{
+    margin-top: -30px;
+    font-size: large;
+}
+.button-large{
+    margin-top: 20px;
+    background-color: #C304BF;
+    border: none;
+    border-radius: 7px;
+    color: white;
+    font-size: larger;
+    padding: 10px 20px 10px 20px;
+}
+
+.button-small{
+    position: absolute;
+    right: 7%;
+    margin-top: -17px;
+    background-color: #C304BF;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: large;
+    padding: 5px 12px 5px 12px;
+}
+.line{
+    margin-left: 80px;
+    border-left: 1px solid white;
+    height: 40px;
+}
+
+li:nth-child(1)::after{
+    margin-left: 12px;
+    content: " ";
+    border: solid white;
+  border-width: 0 2px 2px 0;
+  display: inline-block;
+  padding: 3px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}

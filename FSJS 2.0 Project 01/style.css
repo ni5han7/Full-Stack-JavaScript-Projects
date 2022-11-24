@@ -1,0 +1,76 @@
+/* You can not modify anything in the HTML */
+/* You can only modify the CSS file */
+.navbar-container{
+    display: flex;
+    justify-content: flex-start;
+    gap: 60px;
+    width: 100%;
+    align-items: center;
+    
+}
+
+ul{
+    
+    
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-start;
+    gap: 40px;
+    font-size: 20px;
+    font-family: poppins;
+    
+}
+li{
+    color: #808080;
+}
+
+li:hover{
+    color:black;
+    
+}
+
+
+.nav-button{
+    background-color: #4c4eb3;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: -25px;
+    font-size: large;
+    position: absolute;
+    right: 120px;
+    padding: 13px 22px 13px 22px;
+    text-align: center;
+}
+
+.banner-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    align-items: center;
+}
+
+.heading-text{
+    color:#160e68;
+    font-family: poppins;
+    font-size: 68px;
+    margin-top: -85px;
+}
+
+span{
+    color:#7475DA;
+}
+
+.description{
+    font-family: poppins;
+    color: #7779e0;
+    margin-top: -25px;
+    font-size: larger;
+}
+
+.btn{
+    margin-left: 0px;
+    margin-top: 60px;
+    padding: 20px 42px 20px 42px;
+}
+
