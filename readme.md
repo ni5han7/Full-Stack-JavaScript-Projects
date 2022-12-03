@@ -3,7 +3,7 @@
 
 |Title|Links|
 |---|---|
-|Project 01|[Link](./FSJS%202.0%20Project%2001/readme.md)|
-|Project 02|[Link](./FSJS%202.0%20Project%2002/readme.md)|
-|Project 02|[Link](./FSJS%202.0%20Project%2003/readme.md)|
-|Project 02|[Link](./FSJS%202.0%20Project%2007%20VS%20Code%20Clone%20using%20Tailwind%20CSS/readme.md)|
+|Project 01|[Link](./FSJS%202.0%20Project%2001)|
+|Project 02|[Link](./FSJS%202.0%20Project%2002)|
+|Project 03|[Link](./FSJS%202.0%20Project%2003)|
+|Project 07|[Link](./FSJS%202.0%20Project%2007%20VS%20Code%20Clone%20using%20Tailwind%20CSS)|
