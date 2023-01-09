@@ -1,5 +1,6 @@
 # FullStack JavaScript 2.0 
 ## Projects
+
 ### Please open in Large Screen device such as Laptop.
 
 |Title|Links|
